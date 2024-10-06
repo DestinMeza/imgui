@@ -1,3 +1,8 @@
+##Build Data
+bin/
+bin-int/
+ImGui.vcxproj
+
 ## OSX artifacts
 .DS_Store
 
